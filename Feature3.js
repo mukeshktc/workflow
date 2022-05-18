@@ -5,5 +5,6 @@ sap.ui.define([
     return Controller.extend("Feature3.js",{
     
     }
+   );                          
   }
 );
